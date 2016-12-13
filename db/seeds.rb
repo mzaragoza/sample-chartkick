@@ -1,4 +1,4 @@
-100.times do
+10.times do
   User.create(
     first_name: FFaker::Name.first_name,
     last_name:  FFaker::Name.last_name,
@@ -9,3 +9,4 @@
     country:    'USA'
   )
 end
+puts User.count

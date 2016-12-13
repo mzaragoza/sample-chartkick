@@ -8,6 +8,9 @@ class CreateUser < ActiveRecord::Migration[5.0]
       t.string :state
       t.string :zip
       t.string :country
+
+
+     t.timestamps
     end
   end
 end
