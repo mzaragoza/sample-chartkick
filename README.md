@@ -1,5 +1,8 @@
 # README
 
+http://stackoverflow.com/questions/41062814/rails-4-chartkick-update-data
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
